@@ -1,6 +1,6 @@
 # RDR2 Mod Manager
 
-The MEFA tarafından geliştirilmiş RDR2 Mod Yönetim Aracı.
+RDR2 Mod Yönetim Aracı.
 
 ## İndir
 En son sürümü indirmek için [Releases](https://github.com/The-Mefa/rdr2-releases/releases/latest) sayfasına git.
