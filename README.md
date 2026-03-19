@@ -1,9 +1,50 @@
-# RDR2 Mod Manager
+<div align="center">
 
-RDR2 Mod Yönetim Aracı.
+# 🤠 RDR2 Mod Manager
 
-## İndir
-En son sürümü indirmek için [Releases](https://github.com/The-Mefa/rdr2-releases/releases/latest) sayfasına git.
+**The MEFA tarafından geliştirilmiş Red Dead Redemption 2 Mod Yönetim Aracı**
 
-## YouTube
-[@The_MEFA](https://www.youtube.com/@The_MEFA)
+[![Version](https://img.shields.io/badge/version-0.2.0-c8762a?style=for-the-badge)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
+[![YouTube](https://img.shields.io/badge/YouTube-@The__MEFA-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@The_MEFA)
+
+---
+
+## ⬇️ İndir
+
+<a href="https://github.com/The-Mefa/rdr2-releases/releases/latest/download/RDR2.Mod.Manager_0.2.0_x64-setup.exe">
+  <img src="https://img.shields.io/badge/İndir-Son%20Sürüm-6b0000?style=for-the-badge&logo=windows" />
+</a>
+
+---
+
+## 🔧 Özellikler
+
+| Mod | Açıklama |
+|-----|----------|
+| ⚙️ ScriptHookRDR2 | Temel script kütüphanesi |
+| 🎮 Rampage Trainer | Türkçe oyun içi kontrol menüsü |
+| 🌍 Türkçe Yama | Oyunu Türkçe oyna |
+| 📦 LML | Lenny's Mod Loader |
+
+---
+
+## 🚀 Kullanım
+
+1. Kurulum dosyasını indir ve çalıştır
+2. **Devam Et** butonuna bas
+3. RDR2 oyun klasörünü seç
+4. İstediğin modları kur
+
+---
+
+## 📺 YouTube
+
+Kurulum videosu ve daha fazlası için:
+**[youtube.com/@The_MEFA](https://www.youtube.com/@The_MEFA)**
+
+---
+
+<sub>Bu araç yalnızca eğitim amaçlıdır. Red Dead Redemption 2, Rockstar Games'e aittir.</sub>
+
+</div>
