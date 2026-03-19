@@ -2,7 +2,7 @@
 
 # 🤠 RDR2 Mod Manager
 
-**The MEFA tarafından geliştirilmiş Red Dead Redemption 2 Mod Yönetim Aracı**
+**The MEFA tarafından geliştirilmiş Red Dead Redemption 2 Mod Kurulum Aracı**
 
 [![Version](https://img.shields.io/badge/version-0.2.0-c8762a?style=for-the-badge)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
