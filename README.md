@@ -12,7 +12,7 @@
 
 ## ⬇️ İndir
 
-<a href="https://github.com/The-Mefa/rdr2-releases/releases/latest/download/RDR2%20Mod%20Manager_0.3.0_x64-setup.exe">
+<a href="[https://github.com/The-Mefa/rdr2-releases/releases/latest/download/RDR2%20Mod%20Manager_0.3.0_x64-setup.exe](https://github.com/The-Mefa/rdr2-releases/releases/download/v0.3.0/RDR2.Mod.Manager_0.3.0_x64-setup.exe)">
   <img src="https://img.shields.io/badge/İndir-Son%20Sürüm-6b0000?style=for-the-badge&logo=windows" />
 </a>
 
