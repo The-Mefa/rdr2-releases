@@ -4,7 +4,7 @@
 
 **The MEFA tarafından geliştirilmiş Red Dead Redemption 2 Mod Kurulum Aracı**
 
-[![Version](https://img.shields.io/badge/version-0.2.0-c8762a?style=for-the-badge)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
+[![Version](https://img.shields.io/badge/version-0.3.0-c8762a?style=for-the-badge)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
 [![YouTube](https://img.shields.io/badge/YouTube-@The__MEFA-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@The_MEFA)
 
@@ -12,7 +12,7 @@
 
 ## ⬇️ İndir
 
-<a href="https://github.com/The-Mefa/rdr2-releases/releases/latest/download/RDR2.Mod.Manager_0.2.0_x64-setup.exe">
+<a href="https://github.com/The-Mefa/rdr2-releases/releases/latest/download/RDR2%20Mod%20Manager_0.3.0_x64-setup.exe">
   <img src="https://img.shields.io/badge/İndir-Son%20Sürüm-6b0000?style=for-the-badge&logo=windows" />
 </a>
 
@@ -22,10 +22,11 @@
 
 | Mod | Açıklama |
 |-----|----------|
-| ⚙️ ScriptHookRDR2 | Temel script kütüphanesi |
+| ⚙️ ScriptHookRDR2 | Temel script kütüphanesi (Zorunlu) |
 | 🎮 Rampage Trainer | Türkçe oyun içi kontrol menüsü |
 | 🌍 Türkçe Yama | Oyunu Türkçe oyna |
 | 📦 LML | Lenny's Mod Loader |
+| ⚡ Süper Artur | Arthur'a özel güçler ve yetenekler |
 
 ---
 
@@ -34,7 +35,16 @@
 1. Kurulum dosyasını indir ve çalıştır
 2. **Devam Et** butonuna bas
 3. RDR2 oyun klasörünü seç
-4. İstediğin modları kur
+4. Önce **ScriptHookRDR2**'yi kur (zorunlu)
+5. İstediğin diğer modları kur
+
+---
+
+## 🔄 Otomatik Güncelleme
+
+v0.3.0 ve sonrası için otomatik güncelleme sistemi aktiftir. Uygulama açılışında yeni sürüm kontrolü yapılır.
+
+> ⚠️ v0.2.0 ve altından güncelleme için **v0.3.0'ı manuel kurmanız** gerekmektedir.
 
 ---
 
