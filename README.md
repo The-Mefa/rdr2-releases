@@ -12,7 +12,7 @@
 
 ## ⬇️ İndir
 
-<a href="[https://github.com/The-Mefa/rdr2-releases/releases/latest/download/RDR2%20Mod%20Manager_0.3.0_x64-setup.exe](https://github.com/The-Mefa/rdr2-releases/releases/download/v0.3.0/RDR2.Mod.Manager_0.3.0_x64-setup.exe)">
+<a href="https://github.com/The-Mefa/rdr2-releases/releases/download/v0.3.0/RDR2.Mod.Manager_0.3.0_x64-setup.exe">
   <img src="https://img.shields.io/badge/İndir-Son%20Sürüm-6b0000?style=for-the-badge&logo=windows" />
 </a>
 
@@ -22,7 +22,7 @@
 
 | Mod | Açıklama |
 |-----|----------|
-| ⚙️ ScriptHookRDR2 | Temel script kütüphanesi (Zorunlu) |
+| ⚙️ ScriptHookRDR2 | Temel script kütüphanesi  |
 | 🎮 Rampage Trainer | Türkçe oyun içi kontrol menüsü |
 | 🌍 Türkçe Yama | Oyunu Türkçe oyna |
 | 📦 LML | Lenny's Mod Loader |
@@ -35,16 +35,8 @@
 1. Kurulum dosyasını indir ve çalıştır
 2. **Devam Et** butonuna bas
 3. RDR2 oyun klasörünü seç
-4. Önce **ScriptHookRDR2**'yi kur (zorunlu)
+4. Önce **ScriptHookRDR2**'yi kur
 5. İstediğin diğer modları kur
-
----
-
-## 🔄 Otomatik Güncelleme
-
-v0.3.0 ve sonrası için otomatik güncelleme sistemi aktiftir. Uygulama açılışında yeni sürüm kontrolü yapılır.
-
-> ⚠️ v0.2.0 ve altından güncelleme için **v0.3.0'ı manuel kurmanız** gerekmektedir.
 
 ---
 
