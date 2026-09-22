@@ -6,7 +6,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.7.0-c8762a?style=for-the-badge)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/The-Mefa/rdr2-releases/total?style=for-the-badge&label=indirme&color=3aaa5a)](https://github.com/The-Mefa/rdr2-releases/releases)
+[![Downloads](https://img.shields.io/github/downloads/The-Mefa/rdr2-releases/latest/RDR2.Mod.Manager_0.7.0_x64-setup.exe?style=for-the-badge&label=indirme&color=3aaa5a)](https://github.com/The-Mefa/rdr2-releases/releases/latest)
 [![YouTube](https://img.shields.io/badge/YouTube-@The__MEFA-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@The_MEFA)
 
 ---
